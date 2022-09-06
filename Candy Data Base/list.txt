@@ -1,0 +1,24 @@
+"Sour Patch Kids", 3.99, 40, 1500
+"Swedish Fish", 3.99, 35, 1100
+"Skittles", 3.00, 60, 1100
+"Candy Cane", 0.99, 1, 40
+"Lollipop", 0.50, 1, 100
+"Snickers", 2.49, 2, 700
+"Milk Duds", 3.99, 49, 1000
+"Toblerone", 4.99, 1, 800
+"Nerds", 1.99, 150, 780
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
