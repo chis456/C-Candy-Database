@@ -16,8 +16,7 @@ Instructions for Compiling and Running
 
 type "make" into terminal, then type ./a5
 
-(put instructions here for compiling and running your program; hopefully it's
-just to type "make" in the shell!)
+(put instructions here for compiling and running your program)
 
 
 
